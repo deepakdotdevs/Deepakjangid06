@@ -63,7 +63,7 @@
   <a href="https://www.instagram.com/i._m._deepak_12?igsh=OWk5cWE0ejN1NzBn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
-  <a href="#">
+  <a href="https://x.com/im_deepak_12?t=pB1dx93DOElnOgUnVW3f9Q&s=08">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
   </a>
 </p>
