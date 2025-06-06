@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhscGo1bHN2OTByNGs4NTQybHRhdGw0YWQ3bXZwNmJ4OTFyY2k3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" height="200" alt="Coding gif"/>
+</div>
+
+<div align="center">
   <img height="150" src="https://raw.githubusercontent.com/deepakdotdevs/deepakdotdevs/main/assets/android-gif.gif" alt="Android Developer gif"/>
 </div>
 
@@ -57,13 +61,16 @@
 ### 🤝 Let’s Connect!
 
 <p align="center">
+  <a href="mailto:deepak.06934@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/deepak-jangid-89954a317" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/i._m._deepak_12?igsh=OWk5cWE0ejN1NzBn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
-  <a href="https://x.com/im_deepak_12?t=pB1dx93DOElnOgUnVW3f9Q&s=08">
+  <a href="https://x.com/im_deepak_12?t=pB1dx93DOElnOgUnVW3f9Q&s=08" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
   </a>
 </p>
